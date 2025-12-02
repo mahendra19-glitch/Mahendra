@@ -8,7 +8,7 @@
 I am a first-year Computer Science and Engineering student passionate about technology, programming, and problem-solving.  
 I love exploring **C programming**, learning new concepts, and improving myself as a developer every day.  
 
-- 🧠 Learning: C, Python,HTML, Git & GitHub  
+- 🧠 Learning: C, Python,HTML,CSS, Git & GitHub  
 - 🎮 Hobbies: Playing **Badminton** & **Chess**  
 - 💡 Belief: Strongly believe in myself and continuous learning  
 - 🎯 Goals:  
